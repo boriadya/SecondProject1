@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SecondProject</string>
+    <string name="message_res">Введите текст</string>
+    <string name="key_res">Введите цифру</string>
+    <string name="encrypt_res">Зашифровать</string>
+    <string name="main_res">Зашифрованный текст</string>
+</resources>
